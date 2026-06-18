@@ -13,6 +13,7 @@ Current projects include:
 
 ---
 
-XDA Developers: [@Validites]([https://forum.xda-developers.com](https://xdaforums.com/m/validites.12900120/))
-Telegram: @valdude
-Discord: validites
+My socials are:
+  -XDA Developers: [@Validites]([https://forum.xda-developers.com](https://xdaforums.com/m/validites.12900120/))
+  -Telegram: @valdude
+  -Discord: validites
