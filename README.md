@@ -4,9 +4,9 @@ I'm validites, And I enjoy anything AOSP related
 
 Current projects include:
 
-  -Bringing Xperia 1/5 IV to official status with Infinity-X
+  - Bringing Xperia 1/5 IV to official status with Infinity-X
 
-  -Building Infinity-X for the Exynos 9810 line (minus the Note 10 Lite)
+  - Building Infinity-X for the Exynos 9810 line (minus the Note 10 Lite)
 
 ---
 
