@@ -18,8 +18,8 @@ Current projects include:
 
 My socials are:
 
-  -XDA Developers: [@Validites]([https://forum.xda-developers.com](https://xdaforums.com/m/validites.12900120/))
+  - XDA Developers: [@Validites]([https://forum.xda-developers.com](https://xdaforums.com/m/validites.12900120/))
 
-  -Telegram: @valdude
+  - Telegram: @valdude
 
-  -Discord: validites
+  - Discord: validites
