@@ -4,7 +4,7 @@ I'm validites, And I enjoy anything AOSP/Android related
 
 Current projects include:
 
-  - Maintaining Project CiRCLE for the Sony Xperia 1 iii (pdx215)
+  - None (as of now)
 
 ---
 
